@@ -1,1 +1,1 @@
-# Kubernetes Scaler
+# Kubernetes Downscaler
